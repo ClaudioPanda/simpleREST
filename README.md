@@ -1,7 +1,6 @@
 # simpleREST-en-Golang
 
-Este repositorio es un ejemplo básico desarrolaldo en Golang,
-Para consumir APIS-REST CRUD desde una variable Json internar emulando llamadas a la BD.-
+Este repositorio es un ejemplo básico desarrollado en Golang, para consumir APIS-REST CRUD desde una variable Json, intentando emular las llamadas a la BD.-
 Metodos GET, POST, DELETE.-
 
 Para un correcto funcionamiento:
